@@ -1,0 +1,14 @@
+{
+  "name": "repositorios",
+  "version": "1.0.0",
+  "description": "aspectos basicos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "manuel",
+  "license": "ISC"
+}
