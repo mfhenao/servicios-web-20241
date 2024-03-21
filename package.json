@@ -6,7 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "startindex":"node index.js ", "start":"app.js",
-    "operadores": "node operadores.js"
+    "operadores": "node operadores.js",
+    "operadorescompa": "node operadorescompa.js",
+    "stringmetodos" : "node stringmetodos.js",
+    "operadoreslogicos" : "node operadoreslogicos.js"
   },
   "keywords": [
     "js"
