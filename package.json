@@ -9,7 +9,12 @@
     "operadores": "node operadores.js",
     "operadorescompa": "node operadorescompa.js",
     "stringmetodos" : "node stringmetodos.js",
-    "operadoreslogicos" : "node operadoreslogicos.js"
+    "operadoreslogicos" : "node operadoreslogicos.js",
+    "arrays":"arrays.js",
+    "ejerciciosArrays": "ejerciciosarr.js",
+    "objetos": "objetos.js",
+    "while":"while.js",
+    "dowhile":"dowhile.js"
   },
   "keywords": [
     "js"
